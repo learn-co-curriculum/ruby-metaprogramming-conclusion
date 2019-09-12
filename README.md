@@ -1,16 +1,10 @@
-# Title
+# Metaprogramming Conclusion
 
-## Learning Goals
+From the last few labs, we can see Ruby's metaprogramming capabilities. With
+this technique, we're able to write code that is DRYer, lighter, more intuitive
+and more scalable. Although other languages can do this, we can save a lot more
+time using Ruby.
 
--SWBAT 1
--SWBAT 2
-
-## Introduction
-
-## SWBAT 1
-
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+We discussed concepts such as how mass assignment works, creating custom errors,
+and using them Ruby's metaprogramming features. Metaprogramming allows for
+efficiency, which will be needed as we scale up to building larger applications.
